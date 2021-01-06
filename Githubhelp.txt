@@ -1,0 +1,15 @@
+Github push 할때 자동 로그인(Repository마다 설정)
+git config credential.helper store
+git push "git 주소"
+
+non-fast-forward 오류시
+git pull
+
+commit 수정하기
+해당 폴더에서 git log
+수정할 commit을 찾고 복사
+git rebase -i "커밋 주소"
+수정할 commit을 pick에서 edit으로 변경
+git commit --amend로 수정
+git rebase --continue
+git push -f
