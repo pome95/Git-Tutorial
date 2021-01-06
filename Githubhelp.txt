@@ -1,3 +1,14 @@
+git init - 빈 저장소 만들기
+git status - 현재 상태 체크
+git add - 파일 추가
+git commit -m 추가된 파일 커밋
+git push - 푸시
+git branch - 브랜치 상태체크
+git checkout master - master로
+git fetch - 수정 내역 확인
+git pull - Git에 있는 파일 다운로드
+
+
 Github push 할때 자동 로그인(Repository마다 설정)
 git config credential.helper store
 git push "git 주소"
