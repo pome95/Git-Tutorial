@@ -1,3 +1,4 @@
-사진 넣기
-
-[![사진](http://www.gstatic.com/webp/gallery/5.jpg "블로그로 이동")](https://pome95.github.io)
+표 만들기
+| 제목1 | 제목2 | 제목3 |
+| :--- | :---: | ---: |
+| 항목1 | 항목2 | 항목3 |
