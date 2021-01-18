@@ -1,3 +1,3 @@
-This is a code:  
-        this is a code  
-code end.
+코드는 다음과 같다.  
+        This is a code.  
+코드 끝
