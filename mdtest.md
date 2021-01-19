@@ -6,6 +6,14 @@ HTML
   </body>
 </html>
 ```
+C
 ```c
 printf("Hello, World!");
 ```
+Python
+```python
+a = "Hello, World!"
+print a
+```
+
+
